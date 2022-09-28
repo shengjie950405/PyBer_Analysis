@@ -7,10 +7,10 @@ The goal of this project is helping Pyber to provide an analysis and visualizati
 
 ## Results
 
-###Ride-sharing data 
+### Ride-sharing data 
 ![Ride-sharing Data](https://user-images.githubusercontent.com/111814578/192869989-ec8fa4df-ffde-4da9-968d-e98fd883ba6f.png)
 
-###Total Fare by City Type Summary:
+### Total Fare by City Type Summary:
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/111814578/192869414-311369b9-2e98-4325-b675-f7db3798f21d.png)
 
    
